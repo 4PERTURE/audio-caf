@@ -325,7 +325,8 @@ LOCAL_SHARED_LIBRARIES := \
 	libhardware \
 	libtinyalsa \
 	libtinycompress \
-	libaudioroute \
+	libprocessgroup \
+        libaudioroute \
 	libdl \
 	libaudioutils \
 	libexpat
